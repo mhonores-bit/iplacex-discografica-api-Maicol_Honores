@@ -1,2 +1,2 @@
-# iplacex-discografica-api-maicol_honores
+API REST Spring para administración de discografías favoritas de empleados	 de IPLACEX
 
